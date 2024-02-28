@@ -1,9 +1,13 @@
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 import time
 
-# Abrir o Chromium
-driver = webdriver.Chrome()
+# Abrir Firefox
+firefox_options = webdriver.FirefoxOptions()
+firefox_options.headless = True
+firefox_options.add_argument('--no-sandbox')
+firefox_options.add_argument('--disable-dev-shm-usage')
+
+driver = webdriver.Firefox(options=firefox_options)
 
 # Abrir Instagram
 driver.get('https://www.instagram.com/accounts/login/')
