@@ -1,1 +1,16 @@
-
+{
+  "Seguidores": {
+    "Total": 0,
+    "Novos": 0,
+    "NovosDeHoje": 0,
+    "DataInicio": "",
+    "Usuarios": []
+  },
+  "Seguidos": {
+    "Total": 0,
+    "Novos": 0,
+    "NovosDeHoje": 0,
+    "DataInicio": "",
+    "Usuarios": []
+  }
+}
