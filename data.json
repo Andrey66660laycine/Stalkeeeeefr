@@ -1,16 +1,13 @@
 {
-    "Seguidores": {
-        "Total": 0,
-        "Novos": 0,
-        "NovosDeHoje": 0,
-        "DataInicio": "02/03/2024",
-        "Usuarios": []
-    },
-    "Seguidos": {
-        "Total": 0,
-        "Novos": 0,
-        "NovosDeHoje": 0,
-        "DataInicio": "02/03/2024",
-        "Usuarios": []
-    }
+  "Seguidores": {
+    "Total": 0,
+    "Novos": 0,
+    "Nomes": []
+  },
+  "Seguidos": {
+    "Total": 0,
+    "Novos": 0,
+    "Nomes": []
+  },
+  "UltimaDataReset": "2024-03-02"
 }
