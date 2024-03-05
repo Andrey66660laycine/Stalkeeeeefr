@@ -1,13 +1,1247 @@
 {
-  "Seguidores": {
-    "Total": 0,
-    "Novos": 0,
-    "Usuarios": {}
-  },
-  "Seguidos": {
-    "Total": 0,
-    "Novos": 0,
-    "Usuarios": {}
-  },
-  "UltimaDataReset": ""
+    "Seguidores": {
+        "Total": 272,
+        "Novos": 272,
+        "Usuarios": {
+            "oemanuelwrl": {
+                "id": 52936874039,
+                "username": "oemanuelwrl"
+            },
+            "lunawx_71": {
+                "id": 57474732720,
+                "username": "lunawx_71"
+            },
+            "emanuelwrl7": {
+                "id": 65096818950,
+                "username": "emanuelwrl7"
+            },
+            "_kallebx": {
+                "id": 41241799396,
+                "username": "_kallebx"
+            },
+            "andr33y.real": {
+                "id": 64274554885,
+                "username": "andr33y.real"
+            },
+            "astropvx": {
+                "id": 48240476933,
+                "username": "astropvx"
+            },
+            "sauloo_vitor__": {
+                "id": 56755945748,
+                "username": "sauloo_vitor__"
+            },
+            "teteh.sn": {
+                "id": 54373491827,
+                "username": "teteh.sn"
+            },
+            "andr3y.real": {
+                "id": 44026170137,
+                "username": "andr3y.real"
+            },
+            "gaby.allvv": {
+                "id": 57915054388,
+                "username": "gaby.allvv"
+            },
+            "helo_saide12": {
+                "id": 49807577386,
+                "username": "helo_saide12"
+            },
+            "jonhzinho_08": {
+                "id": 59077985748,
+                "username": "jonhzinho_08"
+            },
+            "lukt0yaaz": {
+                "id": 63521533941,
+                "username": "lukt0yaaz"
+            },
+            "lww._91": {
+                "id": 63719101109,
+                "username": "lww._91"
+            },
+            "pris.ol7": {
+                "id": 55031144059,
+                "username": "pris.ol7"
+            },
+            "dian4._0": {
+                "id": 61947290615,
+                "username": "dian4._0"
+            },
+            "jefersondt3": {
+                "id": 8615821676,
+                "username": "jefersondt3"
+            },
+            "ruuhtr44_": {
+                "id": 57550855761,
+                "username": "ruuhtr44_"
+            },
+            "yudhi19.x7": {
+                "id": 63910095770,
+                "username": "yudhi19.x7"
+            },
+            "pvd_du.erick": {
+                "id": 64451396316,
+                "username": "pvd_du.erick"
+            },
+            "v_t_i_n_h_o01": {
+                "id": 15509083060,
+                "username": "v_t_i_n_h_o01"
+            },
+            "mthziin__souza": {
+                "id": 63727256247,
+                "username": "mthziin__souza"
+            },
+            "dgrau_vini": {
+                "id": 64180402857,
+                "username": "dgrau_vini"
+            },
+            "mim_nacimento": {
+                "id": 58529167258,
+                "username": "mim_nacimento"
+            },
+            "miguel_prates7": {
+                "id": 64356104038,
+                "username": "miguel_prates7"
+            },
+            "flavinho_x7": {
+                "id": 57189450447,
+                "username": "flavinho_x7"
+            },
+            "soar.es0712": {
+                "id": 62831597624,
+                "username": "soar.es0712"
+            },
+            "henrique135222": {
+                "id": 60911565863,
+                "username": "henrique135222"
+            },
+            "kzinn__085": {
+                "id": 58350779054,
+                "username": "kzinn__085"
+            },
+            "everlayne_ofc": {
+                "id": 57888971444,
+                "username": "everlayne_ofc"
+            },
+            "priv_ana_024": {
+                "id": 59644596591,
+                "username": "priv_ana_024"
+            },
+            "danylloxs7": {
+                "id": 58190105211,
+                "username": "danylloxs7"
+            },
+            "luanxt023": {
+                "id": 62168231028,
+                "username": "luanxt023"
+            },
+            "nynha_souza_03": {
+                "id": 62886497616,
+                "username": "nynha_souza_03"
+            },
+            "godoy._.1": {
+                "id": 51058213843,
+                "username": "godoy._.1"
+            },
+            "viv.iane717": {
+                "id": 64370367045,
+                "username": "viv.iane717"
+            },
+            "douglas_xzz9": {
+                "id": 59632361449,
+                "username": "douglas_xzz9"
+            },
+            "pvd_da_eloa78": {
+                "id": 62030963418,
+                "username": "pvd_da_eloa78"
+            },
+            "alarm.chono": {
+                "id": 61701678281,
+                "username": "alarm.chono"
+            },
+            "jptr.alha244": {
+                "id": 64566156690,
+                "username": "jptr.alha244"
+            },
+            "cfdarayzinha_": {
+                "id": 63961043409,
+                "username": "cfdarayzinha_"
+            },
+            "tzx.ofc": {
+                "id": 62756678151,
+                "username": "tzx.ofc"
+            },
+            "amor_da_sua_vd_11": {
+                "id": 59931537150,
+                "username": "amor_da_sua_vd_11"
+            },
+            "gabzin.x0": {
+                "id": 64153448692,
+                "username": "gabzin.x0"
+            },
+            "lyvia.86": {
+                "id": 59834865465,
+                "username": "lyvia.86"
+            },
+            "szz_a244": {
+                "id": 62475754822,
+                "username": "szz_a244"
+            },
+            "pedrinsx84": {
+                "id": 61099097165,
+                "username": "pedrinsx84"
+            },
+            "_isabelly__33": {
+                "id": 61499028145,
+                "username": "_isabelly__33"
+            },
+            "ana.fidelis12": {
+                "id": 54026559307,
+                "username": "ana.fidelis12"
+            },
+            "endryo_13_": {
+                "id": 60830208464,
+                "username": "endryo_13_"
+            },
+            "arthurs.ls": {
+                "id": 59819202906,
+                "username": "arthurs.ls"
+            },
+            "lkzin.df": {
+                "id": 64399252140,
+                "username": "lkzin.df"
+            },
+            "williamsilva_789": {
+                "id": 61848259364,
+                "username": "williamsilva_789"
+            },
+            "edulimaw": {
+                "id": 50113638032,
+                "username": "edulimaw"
+            },
+            "_46victorgabriel": {
+                "id": 60694472861,
+                "username": "_46victorgabriel"
+            },
+            "gtzin.lk": {
+                "id": 63992524350,
+                "username": "gtzin.lk"
+            },
+            "maria_julia_7897": {
+                "id": 57777767237,
+                "username": "maria_julia_7897"
+            },
+            "anthonyaugusto01": {
+                "id": 57883189396,
+                "username": "anthonyaugusto01"
+            },
+            "pedrin.dos_santos_": {
+                "id": 62840592987,
+                "username": "pedrin.dos_santos_"
+            },
+            "vinicius._.more": {
+                "id": 59181579487,
+                "username": "vinicius._.more"
+            },
+            "rd.lz78": {
+                "id": 64575241084,
+                "username": "rd.lz78"
+            },
+            "_.anajuhh.fz": {
+                "id": 62051494878,
+                "username": "_.anajuhh.fz"
+            },
+            "thall_mr50d": {
+                "id": 64026916455,
+                "username": "thall_mr50d"
+            },
+            "085_ulv": {
+                "id": 50893946024,
+                "username": "085_ulv"
+            },
+            "lopesramosjeniffer": {
+                "id": 64086789691,
+                "username": "lopesramosjeniffer"
+            },
+            "fellip.xz": {
+                "id": 62347404913,
+                "username": "fellip.xz"
+            },
+            "thiago_dalcim": {
+                "id": 39785872695,
+                "username": "thiago_dalcim"
+            },
+            "lorrayne_1412": {
+                "id": 64024014433,
+                "username": "lorrayne_1412"
+            },
+            "mateuzin_54": {
+                "id": 62903400098,
+                "username": "mateuzin_54"
+            },
+            "marcio.kxx": {
+                "id": 63730240825,
+                "username": "marcio.kxx"
+            },
+            "_eloa_14_b_2": {
+                "id": 63959731965,
+                "username": "_eloa_14_b_2"
+            },
+            "zumbi.da.zs": {
+                "id": 64114768406,
+                "username": "zumbi.da.zs"
+            },
+            "l.uiznx07": {
+                "id": 64179272818,
+                "username": "l.uiznx07"
+            },
+            "maria_eloa199": {
+                "id": 58086359862,
+                "username": "maria_eloa199"
+            },
+            "luiz_hrzinn": {
+                "id": 63986006961,
+                "username": "luiz_hrzinn"
+            },
+            "guxtafds": {
+                "id": 61839135117,
+                "username": "guxtafds"
+            },
+            "freebrx1": {
+                "id": 62573816286,
+                "username": "freebrx1"
+            },
+            "otavio.unicco7": {
+                "id": 62188695845,
+                "username": "otavio.unicco7"
+            },
+            "vtrzin_daspty_0888": {
+                "id": 59231762614,
+                "username": "vtrzin_daspty_0888"
+            },
+            "lukinha_kkk_200": {
+                "id": 60773841158,
+                "username": "lukinha_kkk_200"
+            },
+            "_guelziim_sz": {
+                "id": 63901349618,
+                "username": "_guelziim_sz"
+            },
+            "eu_willians_alves__": {
+                "id": 57603992391,
+                "username": "eu_willians_alves__"
+            },
+            "vinibeteromedeiros": {
+                "id": 56654657240,
+                "username": "vinibeteromedeiros"
+            },
+            "vini_usr": {
+                "id": 63610009354,
+                "username": "vini_usr"
+            },
+            "hysazzk10": {
+                "id": 62904818133,
+                "username": "hysazzk10"
+            },
+            "brunin_da_zs011": {
+                "id": 54770802246,
+                "username": "brunin_da_zs011"
+            },
+            "garciiiaaaazl": {
+                "id": 58378817664,
+                "username": "garciiiaaaazl"
+            },
+            "lf_c_ande": {
+                "id": 62315251317,
+                "username": "lf_c_ande"
+            },
+            "o_tal_do_fernandinho_": {
+                "id": 28892917853,
+                "username": "o_tal_do_fernandinho_"
+            },
+            "moises_silva_33": {
+                "id": 63926668972,
+                "username": "moises_silva_33"
+            },
+            "jeov4silva": {
+                "id": 62367568657,
+                "username": "jeov4silva"
+            },
+            "guilherme.valdivino": {
+                "id": 62421435926,
+                "username": "guilherme.valdivino"
+            },
+            "kauanfreitas603": {
+                "id": 63378931948,
+                "username": "kauanfreitas603"
+            },
+            "feehxzinhah_facioneh": {
+                "id": 63130424389,
+                "username": "feehxzinhah_facioneh"
+            },
+            "davigabriel8293": {
+                "id": 62819488811,
+                "username": "davigabriel8293"
+            },
+            "mtzin.nz677": {
+                "id": 61708175487,
+                "username": "mtzin.nz677"
+            },
+            "emanu_elypinho": {
+                "id": 56241087604,
+                "username": "emanu_elypinho"
+            },
+            "gbzin__27": {
+                "id": 61371764300,
+                "username": "gbzin__27"
+            },
+            "pvd.l4raxzh": {
+                "id": 57336851622,
+                "username": "pvd.l4raxzh"
+            },
+            "kayckbrayhan": {
+                "id": 57004633736,
+                "username": "kayckbrayhan"
+            },
+            "duu_vitin244": {
+                "id": 61372591245,
+                "username": "duu_vitin244"
+            },
+            "_moreno.xp7": {
+                "id": 62210598625,
+                "username": "_moreno.xp7"
+            },
+            "jczin.xit7": {
+                "id": 62371208776,
+                "username": "jczin.xit7"
+            },
+            "yuri202024": {
+                "id": 64563355321,
+                "username": "yuri202024"
+            },
+            "vvz.lanna": {
+                "id": 36987463108,
+                "username": "vvz.lanna"
+            },
+            "dd4vix": {
+                "id": 63917664780,
+                "username": "dd4vix"
+            },
+            "b.ellaxrj": {
+                "id": 64171287832,
+                "username": "b.ellaxrj"
+            },
+            "joao_vithor_zx_": {
+                "id": 62426785936,
+                "username": "joao_vithor_zx_"
+            },
+            "vz_arthur_zin7": {
+                "id": 63855390893,
+                "username": "vz_arthur_zin7"
+            },
+            "marcin_014_ofc": {
+                "id": 63965839302,
+                "username": "marcin_014_ofc"
+            },
+            "j8rro.v3": {
+                "id": 56013962028,
+                "username": "j8rro.v3"
+            },
+            "gb_delax0077": {
+                "id": 64088370611,
+                "username": "gb_delax0077"
+            },
+            "joysse_190": {
+                "id": 63135144972,
+                "username": "joysse_190"
+            },
+            "vinicius_vinioficial": {
+                "id": 58524576964,
+                "username": "vinicius_vinioficial"
+            },
+            "dann_hxx_": {
+                "id": 62594423373,
+                "username": "dann_hxx_"
+            },
+            "marcosvzls7": {
+                "id": 58048258532,
+                "username": "marcosvzls7"
+            },
+            "nauan.v7": {
+                "id": 59657201814,
+                "username": "nauan.v7"
+            },
+            "arianeoliveira294": {
+                "id": 63336010232,
+                "username": "arianeoliveira294"
+            },
+            "_d_a_v_i_0_1_7": {
+                "id": 64184876998,
+                "username": "_d_a_v_i_0_1_7"
+            },
+            "_gugu_77x_": {
+                "id": 60193548565,
+                "username": "_gugu_77x_"
+            },
+            "hsxx_zn": {
+                "id": 48779662145,
+                "username": "hsxx_zn"
+            },
+            "_kally_xp_": {
+                "id": 62898131179,
+                "username": "_kally_xp_"
+            },
+            "eu_hiro_rds": {
+                "id": 54308171611,
+                "username": "eu_hiro_rds"
+            },
+            "araujo_zxc": {
+                "id": 63706740053,
+                "username": "araujo_zxc"
+            },
+            "victor_zzsv": {
+                "id": 62854126070,
+                "username": "victor_zzsv"
+            },
+            "tallysson_guajajara_": {
+                "id": 60114338749,
+                "username": "tallysson_guajajara_"
+            },
+            "mlk_.silva7": {
+                "id": 51822442680,
+                "username": "mlk_.silva7"
+            },
+            "ryx_cp": {
+                "id": 60090737859,
+                "username": "ryx_cp"
+            },
+            "__guizinx_": {
+                "id": 62226049739,
+                "username": "__guizinx_"
+            },
+            "alex_ucheeff6.7": {
+                "id": 63873040207,
+                "username": "alex_ucheeff6.7"
+            },
+            "lukt0yaz": {
+                "id": 54147281189,
+                "username": "lukt0yaz"
+            },
+            "elo_isaaaaaaa": {
+                "id": 7679842111,
+                "username": "elo_isaaaaaaa"
+            },
+            "edua_rda.garcia12": {
+                "id": 63276569591,
+                "username": "edua_rda.garcia12"
+            },
+            "eu_biel_157_x": {
+                "id": 62837292074,
+                "username": "eu_biel_157_x"
+            },
+            "beatrizx_047": {
+                "id": 63942865147,
+                "username": "beatrizx_047"
+            },
+            "slc_juuh_": {
+                "id": 57407020723,
+                "username": "slc_juuh_"
+            },
+            "enzogabriell1601": {
+                "id": 53253502641,
+                "username": "enzogabriell1601"
+            },
+            "graci_rodrigux": {
+                "id": 63430330905,
+                "username": "graci_rodrigux"
+            },
+            "naae.lly": {
+                "id": 60155229749,
+                "username": "naae.lly"
+            },
+            "lauanawy": {
+                "id": 59870944322,
+                "username": "lauanawy"
+            },
+            "021_isaac8": {
+                "id": 58668913917,
+                "username": "021_isaac8"
+            },
+            "fx_richard_061": {
+                "id": 63313459305,
+                "username": "fx_richard_061"
+            },
+            "qvc_yasmin4": {
+                "id": 61486624134,
+                "username": "qvc_yasmin4"
+            },
+            "ryque.njr": {
+                "id": 63324709232,
+                "username": "ryque.njr"
+            },
+            "ellisavask_": {
+                "id": 52642756897,
+                "username": "ellisavask_"
+            },
+            "carlos_passaia_": {
+                "id": 63488094761,
+                "username": "carlos_passaia_"
+            },
+            "ofc_trisha.xx": {
+                "id": 57754241280,
+                "username": "ofc_trisha.xx"
+            },
+            "mehm8770": {
+                "id": 61599156788,
+                "username": "mehm8770"
+            },
+            "lipe_bielzinh0": {
+                "id": 54079926098,
+                "username": "lipe_bielzinh0"
+            },
+            "_maria_eduarda436": {
+                "id": 59874195607,
+                "username": "_maria_eduarda436"
+            },
+            "wxsophia._": {
+                "id": 52854631282,
+                "username": "wxsophia._"
+            },
+            "lucas_d_dz7": {
+                "id": 63404702143,
+                "username": "lucas_d_dz7"
+            },
+            "ala.na4198": {
+                "id": 61059891906,
+                "username": "ala.na4198"
+            },
+            "santowx.244": {
+                "id": 62235436541,
+                "username": "santowx.244"
+            },
+            "ana_clara_1256_": {
+                "id": 62052180028,
+                "username": "ana_clara_1256_"
+            },
+            "daurilane_santos_4315": {
+                "id": 61032984127,
+                "username": "daurilane_santos_4315"
+            },
+            "antonio.marcos.px8": {
+                "id": 60461779174,
+                "username": "antonio.marcos.px8"
+            },
+            "arthur_244rlq": {
+                "id": 57203948987,
+                "username": "arthur_244rlq"
+            },
+            "phyetro262": {
+                "id": 61124066418,
+                "username": "phyetro262"
+            },
+            "davi._sk": {
+                "id": 61324239885,
+                "username": "davi._sk"
+            },
+            "mlss686": {
+                "id": 59475153421,
+                "username": "mlss686"
+            },
+            "luis._ntjj": {
+                "id": 63032621159,
+                "username": "luis._ntjj"
+            },
+            "__eu.v_i_v_i_x_x__090_": {
+                "id": 60305472287,
+                "username": "__eu.v_i_v_i_x_x__090_"
+            },
+            "_desativadaaa98_": {
+                "id": 63511995774,
+                "username": "_desativadaaa98_"
+            },
+            "amderson_07": {
+                "id": 49741954442,
+                "username": "amderson_07"
+            },
+            "miguel__up": {
+                "id": 61212281973,
+                "username": "miguel__up"
+            },
+            "jiu_jitsu_na_veia": {
+                "id": 63912150624,
+                "username": "jiu_jitsu_na_veia"
+            },
+            "pedro_xxgabi10": {
+                "id": 52023689956,
+                "username": "pedro_xxgabi10"
+            },
+            "rayssinhx_87": {
+                "id": 61204561210,
+                "username": "rayssinhx_87"
+            },
+            "s4ntos.080": {
+                "id": 59053983367,
+                "username": "s4ntos.080"
+            },
+            "thayneporto": {
+                "id": 60505564420,
+                "username": "thayneporto"
+            },
+            "yasm_in__vitoria": {
+                "id": 61696229721,
+                "username": "yasm_in__vitoria"
+            },
+            "021_soso13932": {
+                "id": 58855470092,
+                "username": "021_soso13932"
+            },
+            "luiz7042henrique": {
+                "id": 41178290921,
+                "username": "luiz7042henrique"
+            },
+            "joao.vittorhp": {
+                "id": 57472855311,
+                "username": "joao.vittorhp"
+            },
+            "ray_sinha24": {
+                "id": 59159472214,
+                "username": "ray_sinha24"
+            },
+            "meno_santos_77": {
+                "id": 57052599297,
+                "username": "meno_santos_77"
+            },
+            "vugo_rizadinha": {
+                "id": 60806554734,
+                "username": "vugo_rizadinha"
+            },
+            "__.silvaa_.2k23": {
+                "id": 57018143369,
+                "username": "__.silvaa_.2k23"
+            },
+            "savyo_ofc_10": {
+                "id": 62229883729,
+                "username": "savyo_ofc_10"
+            },
+            "pdp_hxz": {
+                "id": 60299646550,
+                "username": "pdp_hxz"
+            },
+            "samu_caro55": {
+                "id": 59911586304,
+                "username": "samu_caro55"
+            },
+            "daianeeex_": {
+                "id": 63427770854,
+                "username": "daianeeex_"
+            },
+            "gabrielsilava45": {
+                "id": 63277237272,
+                "username": "gabrielsilava45"
+            },
+            "_____stefanysilva___": {
+                "id": 53013502181,
+                "username": "_____stefanysilva___"
+            },
+            "priv_dsouxsz": {
+                "id": 62068777551,
+                "username": "priv_dsouxsz"
+            },
+            "gabrielarodrigues1905": {
+                "id": 51623054865,
+                "username": "gabrielarodrigues1905"
+            },
+            "_asillvaa01__": {
+                "id": 60815401403,
+                "username": "_asillvaa01__"
+            },
+            "vugo_yago_031": {
+                "id": 60757220592,
+                "username": "vugo_yago_031"
+            },
+            "rlk_isaczin_55": {
+                "id": 62229372131,
+                "username": "rlk_isaczin_55"
+            },
+            "alessandrodacg": {
+                "id": 63984475107,
+                "username": "alessandrodacg"
+            },
+            "anawnz4432": {
+                "id": 63962022302,
+                "username": "anawnz4432"
+            },
+            "_maya.lk": {
+                "id": 64187920168,
+                "username": "_maya.lk"
+            },
+            "pvd_miguelzin38": {
+                "id": 57282773911,
+                "username": "pvd_miguelzin38"
+            },
+            "iris_gabriely28": {
+                "id": 61169537906,
+                "username": "iris_gabriely28"
+            },
+            "silvaz.x._": {
+                "id": 57454877141,
+                "username": "silvaz.x._"
+            },
+            "eumaisawys": {
+                "id": 62673208851,
+                "username": "eumaisawys"
+            },
+            "mateus142488": {
+                "id": 63495843646,
+                "username": "mateus142488"
+            },
+            "antonioedu09": {
+                "id": 62212006440,
+                "username": "antonioedu09"
+            },
+            "ckmikael_da_midia_15": {
+                "id": 56525755097,
+                "username": "ckmikael_da_midia_15"
+            },
+            "jaquelinealves1166": {
+                "id": 56373381652,
+                "username": "jaquelinealves1166"
+            },
+            "jaozin.krl014": {
+                "id": 58501062488,
+                "username": "jaozin.krl014"
+            },
+            "helda_almeidaa": {
+                "id": 39140832927,
+                "username": "helda_almeidaa"
+            },
+            "yaae_erick": {
+                "id": 53322159774,
+                "username": "yaae_erick"
+            },
+            "ea_gomes475": {
+                "id": 61380906137,
+                "username": "ea_gomes475"
+            },
+            "oh___tal__do__talison": {
+                "id": 63919831698,
+                "username": "oh___tal__do__talison"
+            },
+            "gabrieliluminado_": {
+                "id": 63447222932,
+                "username": "gabrieliluminado_"
+            },
+            "_fe__em__deus__777": {
+                "id": 61984185385,
+                "username": "_fe__em__deus__777"
+            },
+            "isahhzx0._": {
+                "id": 63323503168,
+                "username": "isahhzx0._"
+            },
+            "pl.fxp_13": {
+                "id": 61724487631,
+                "username": "pl.fxp_13"
+            },
+            "betmines2024": {
+                "id": 64132811720,
+                "username": "betmines2024"
+            },
+            "emily_nicole_ofc9758": {
+                "id": 64096578839,
+                "username": "emily_nicole_ofc9758"
+            },
+            "018_viini": {
+                "id": 64131627820,
+                "username": "018_viini"
+            },
+            "gabrielribeiro8210": {
+                "id": 59648044116,
+                "username": "gabrielribeiro8210"
+            },
+            "enr__244": {
+                "id": 63302430233,
+                "username": "enr__244"
+            },
+            "luiz.wz14": {
+                "id": 63793134752,
+                "username": "luiz.wz14"
+            },
+            "s2_silva022": {
+                "id": 63796637208,
+                "username": "s2_silva022"
+            },
+            "silvax_0fc": {
+                "id": 55045562653,
+                "username": "silvax_0fc"
+            },
+            "rcampelomiu": {
+                "id": 63334140915,
+                "username": "rcampelomiu"
+            },
+            "daphh.n1": {
+                "id": 64343280442,
+                "username": "daphh.n1"
+            },
+            "htps.meloo": {
+                "id": 63342939355,
+                "username": "htps.meloo"
+            },
+            "zvitor.moraes": {
+                "id": 5370152672,
+                "username": "zvitor.moraes"
+            },
+            "sil.va510": {
+                "id": 63975612733,
+                "username": "sil.va510"
+            },
+            "jcdos_corte": {
+                "id": 61868575157,
+                "username": "jcdos_corte"
+            },
+            "jcvzz7": {
+                "id": 63954914523,
+                "username": "jcvzz7"
+            },
+            "marlon_.023": {
+                "id": 14552241873,
+                "username": "marlon_.023"
+            },
+            "priva_pedreiro": {
+                "id": 63161833181,
+                "username": "priva_pedreiro"
+            },
+            "ingriid_trancass": {
+                "id": 8583398266,
+                "username": "ingriid_trancass"
+            },
+            "mioj_w": {
+                "id": 60627879874,
+                "username": "mioj_w"
+            },
+            "poetadas00h": {
+                "id": 58751397477,
+                "username": "poetadas00h"
+            },
+            "euarly.f": {
+                "id": 47922276122,
+                "username": "euarly.f"
+            },
+            "ane_lm.085": {
+                "id": 54362023958,
+                "username": "ane_lm.085"
+            },
+            "diego.morais2007": {
+                "id": 49804358301,
+                "username": "diego.morais2007"
+            },
+            "trancinhas.thiele": {
+                "id": 63240761851,
+                "username": "trancinhas.thiele"
+            },
+            "baddie_duda__": {
+                "id": 32465747172,
+                "username": "baddie_duda__"
+            },
+            "barbaraxt__": {
+                "id": 62109475415,
+                "username": "barbaraxt__"
+            },
+            "_mc_dioguinho_": {
+                "id": 51785155780,
+                "username": "_mc_dioguinho_"
+            },
+            "_.aryadne._02_": {
+                "id": 50012461411,
+                "username": "_.aryadne._02_"
+            },
+            "m4el__085": {
+                "id": 9944886157,
+                "username": "m4el__085"
+            },
+            "vando_lins_": {
+                "id": 27303160100,
+                "username": "vando_lins_"
+            },
+            "yurwi0": {
+                "id": 52034743477,
+                "username": "yurwi0"
+            },
+            "alexis_d_nas": {
+                "id": 57313691348,
+                "username": "alexis_d_nas"
+            },
+            "sl.silvaa4": {
+                "id": 48016951295,
+                "username": "sl.silvaa4"
+            },
+            "favela_de_cr": {
+                "id": 56969257709,
+                "username": "favela_de_cr"
+            },
+            "josue__sn": {
+                "id": 28029288909,
+                "username": "josue__sn"
+            },
+            "g3ovane__": {
+                "id": 47060961250,
+                "username": "g3ovane__"
+            },
+            "sabrina_sntiag": {
+                "id": 47881748077,
+                "username": "sabrina_sntiag"
+            },
+            "vlzinn.085": {
+                "id": 53294013536,
+                "username": "vlzinn.085"
+            },
+            "pabllo.xs": {
+                "id": 40224766722,
+                "username": "pabllo.xs"
+            },
+            "ups_yaas": {
+                "id": 47852167954,
+                "username": "ups_yaas"
+            },
+            "___thayna.st": {
+                "id": 46457700003,
+                "username": "___thayna.st"
+            },
+            "ramosvs_": {
+                "id": 49393782342,
+                "username": "ramosvs_"
+            },
+            "_mayx_p": {
+                "id": 53243621997,
+                "username": "_mayx_p"
+            },
+            "_indzinhx_swx": {
+                "id": 59764361005,
+                "username": "_indzinhx_swx"
+            },
+            "beautymake.upstore": {
+                "id": 34862914732,
+                "username": "beautymake.upstore"
+            },
+            "carlosandrade_238": {
+                "id": 62005941061,
+                "username": "carlosandrade_238"
+            },
+            "glwnda.g": {
+                "id": 5722176328,
+                "username": "glwnda.g"
+            },
+            "pvd.sardakakak": {
+                "id": 62795374902,
+                "username": "pvd.sardakakak"
+            },
+            "marcoscalixtoaracaju": {
+                "id": 62242721464,
+                "username": "marcoscalixtoaracaju"
+            },
+            "___duda___02": {
+                "id": 60031138674,
+                "username": "___duda___02"
+            },
+            "loh_alves19": {
+                "id": 8100544571,
+                "username": "loh_alves19"
+            },
+            "matheusend_": {
+                "id": 37009007860,
+                "username": "matheusend_"
+            },
+            "evehxneyy": {
+                "id": 49887409181,
+                "username": "evehxneyy"
+            },
+            "085_vtinho": {
+                "id": 62426083191,
+                "username": "085_vtinho"
+            },
+            "_aryzinha_07": {
+                "id": 46537755726,
+                "username": "_aryzinha_07"
+            },
+            "m4r_ia12": {
+                "id": 57424882443,
+                "username": "m4r_ia12"
+            },
+            "lima_xp__": {
+                "id": 14322868358,
+                "username": "lima_xp__"
+            },
+            "ludmil4_silva": {
+                "id": 35697706271,
+                "username": "ludmil4_silva"
+            },
+            "dian4__0": {
+                "id": 34098682632,
+                "username": "dian4__0"
+            },
+            "mk_beca": {
+                "id": 49093416875,
+                "username": "mk_beca"
+            },
+            "yasmiin_lira": {
+                "id": 5342868903,
+                "username": "yasmiin_lira"
+            },
+            "taina_silva965": {
+                "id": 58369906972,
+                "username": "taina_silva965"
+            }
+        }
+    },
+    "Seguidos": {
+        "Total": 36,
+        "Novos": 36,
+        "Usuarios": {
+            "academiaenem": {
+                "id": 52248554317,
+                "username": "academiaenem"
+            },
+            "_kallebx": {
+                "id": 41241799396,
+                "username": "_kallebx"
+            },
+            "oemanuelwrl": {
+                "id": 52936874039,
+                "username": "oemanuelwrl"
+            },
+            "lunawx_71": {
+                "id": 57474732720,
+                "username": "lunawx_71"
+            },
+            "dian4__0": {
+                "id": 34098682632,
+                "username": "dian4__0"
+            },
+            "andr33y.real": {
+                "id": 64274554885,
+                "username": "andr33y.real"
+            },
+            "sauloo_vitor__": {
+                "id": 56755945748,
+                "username": "sauloo_vitor__"
+            },
+            "teteh.sn": {
+                "id": 54373491827,
+                "username": "teteh.sn"
+            },
+            "andr3y.real": {
+                "id": 44026170137,
+                "username": "andr3y.real"
+            },
+            "gaby.allvv": {
+                "id": 57915054388,
+                "username": "gaby.allvv"
+            },
+            "carlosandrade_238": {
+                "id": 62005941061,
+                "username": "carlosandrade_238"
+            },
+            "jonhzinho_08": {
+                "id": 59077985748,
+                "username": "jonhzinho_08"
+            },
+            "lww._91": {
+                "id": 63719101109,
+                "username": "lww._91"
+            },
+            "lima_xp__": {
+                "id": 14322868358,
+                "username": "lima_xp__"
+            },
+            "josue__sn": {
+                "id": 28029288909,
+                "username": "josue__sn"
+            },
+            "pabllo.xs": {
+                "id": 40224766722,
+                "username": "pabllo.xs"
+            },
+            "marlon_.023": {
+                "id": 14552241873,
+                "username": "marlon_.023"
+            },
+            "vlzinn.085": {
+                "id": 53294013536,
+                "username": "vlzinn.085"
+            },
+            "pris.ol7": {
+                "id": 55031144059,
+                "username": "pris.ol7"
+            },
+            "dian4._0": {
+                "id": 61947290615,
+                "username": "dian4._0"
+            },
+            "07_yasmin_": {
+                "id": 17709938798,
+                "username": "07_yasmin_"
+            },
+            "ruuhtr44_": {
+                "id": 57550855761,
+                "username": "ruuhtr44_"
+            },
+            "fortalezaec": {
+                "id": 698161208,
+                "username": "fortalezaec"
+            },
+            "085_ulv": {
+                "id": 50893946024,
+                "username": "085_ulv"
+            },
+            "vvz.lanna": {
+                "id": 36987463108,
+                "username": "vvz.lanna"
+            },
+            "hsxx_zn": {
+                "id": 48779662145,
+                "username": "hsxx_zn"
+            },
+            "iicarou": {
+                "id": 18281117450,
+                "username": "iicarou"
+            },
+            "elo_isaaaaaaa": {
+                "id": 7679842111,
+                "username": "elo_isaaaaaaa"
+            },
+            "helda_almeidaa": {
+                "id": 39140832927,
+                "username": "helda_almeidaa"
+            },
+            "yurwi0": {
+                "id": 52034743477,
+                "username": "yurwi0"
+            },
+            "glwnda.g": {
+                "id": 5722176328,
+                "username": "glwnda.g"
+            },
+            "palomythmake": {
+                "id": 44652951142,
+                "username": "palomythmake"
+            },
+            "ludmil4_silva": {
+                "id": 35697706271,
+                "username": "ludmil4_silva"
+            },
+            "mk_beca": {
+                "id": 49093416875,
+                "username": "mk_beca"
+            },
+            "yasmiin_lira": {
+                "id": 5342868903,
+                "username": "yasmiin_lira"
+            },
+            "taina_silva965": {
+                "id": 58369906972,
+                "username": "taina_silva965"
+            }
+        }
+    },
+    "UltimaDataReset": ""
 }
